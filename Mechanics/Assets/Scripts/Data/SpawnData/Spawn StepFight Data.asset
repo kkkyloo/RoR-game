@@ -21,6 +21,6 @@ MonoBehaviour:
   - Position: {x: 25, y: -0.90032, z: -0.8}
     Rotation: {x: 0, y: 0.417085, z: 0, w: 0.908867}
   _enemyPrefab:
-  - {fileID: 1855912308491890180, guid: 3ec6045e292d32846b1ca830f8d004cd, type: 3}
-  - {fileID: 1855912308491890180, guid: 3ec6045e292d32846b1ca830f8d004cd, type: 3}
-  - {fileID: 1855912308491890180, guid: 3ec6045e292d32846b1ca830f8d004cd, type: 3}
+  - {fileID: 1316297618186276239, guid: 40fea8a0a0a49b84daf46a2654d14aaf, type: 3}
+  - {fileID: 1316297618186276239, guid: 40fea8a0a0a49b84daf46a2654d14aaf, type: 3}
+  - {fileID: 1316297618186276239, guid: 40fea8a0a0a49b84daf46a2654d14aaf, type: 3}
